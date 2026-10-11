@@ -13,7 +13,7 @@ Genomic analysis pipeline for SAL_Agona strains.
 Prepare data in the `data/` directory and run scripts in the `script/` directory.
 
 ## Requirements
-MAFFT, IQ-TREE, BLAST, R
+MAFFT, IQ-TREE, BLAST, R, python
 
 ## License
 MIT
